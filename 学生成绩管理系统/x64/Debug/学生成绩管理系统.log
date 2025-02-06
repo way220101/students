@@ -1,0 +1,8 @@
+﻿  student2.cpp
+E:\课程设计\学生成绩管理系统\学生成绩管理系统\student2.cpp(477,37): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+E:\课程设计\学生成绩管理系统\学生成绩管理系统\student2.cpp(489,34): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+E:\课程设计\学生成绩管理系统\学生成绩管理系统\student2.cpp(501,37): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+E:\课程设计\学生成绩管理系统\学生成绩管理系统\student2.cpp(513,37): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+E:\课程设计\学生成绩管理系统\学生成绩管理系统\student2.cpp(525,37): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+E:\课程设计\学生成绩管理系统\学生成绩管理系统\student2.cpp(537,34): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+  学生成绩管理系统.vcxproj -> E:\课程设计\学生成绩管理系统\x64\Debug\学生成绩管理系统.exe
